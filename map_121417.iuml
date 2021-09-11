@@ -1,0 +1,6 @@
+```mermaid
+graph LR
+A[GitHub] -- Our Hosting Servers --> B((Archive))
+B --> C[NewGrounds Archive]
+B --> D[SoundCloud Archive]
+```
