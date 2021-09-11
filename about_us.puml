@@ -1,10 +1,18 @@
 @startuml
 
-top to bottom direction
-
-Acronym --> Meaning: R: Retrospective
-Acronym --> Meaning: P: Personality
-Acronym --> Meaning: R: Recovery
-Acronym --> Meaning: O: Organization
+R.P.R.O -r-> Acronym
+Acronym -d-> " R "
+Acronym -d-> P
+Acronym -d-> R
+Acronym -d-> O
+" R " --> Retrospective
+P --> Personality
+R --> Recovery
+O --> Organization
+Retrospective -d-> Meaning
+Personality -d-> Meaning
+Recovery -d-> Meaning
+Organization -d-> Meaning
+Meaning -r-> Retrospective Personality Recovery Organization
 
 @enduml
