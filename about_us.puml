@@ -2,9 +2,9 @@
 
 top to bottom direction
 
-Acronym->Meaning: R: Retrospective
-Acronym->Meaning: P: Personality
-Acronym->Meaning: R: Recovery
-Acronym->Meaning: O: Organization
+Acronym --> Meaning: R: Retrospective
+Acronym --> Meaning: P: Personality
+Acronym --> Meaning: R: Recovery
+Acronym --> Meaning: O: Organization
 
 @enduml
