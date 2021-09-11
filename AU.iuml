@@ -1,0 +1,7 @@
+```mermaid
+sequenceDiagram
+Acronym->Meaning: R: Retrospective
+Acronym->Meaning: P: Perspective
+Acronym->Meaning: R: Recovery
+Acronym->Meaning: O: Organization
+```
