@@ -3,7 +3,7 @@ This is the official recovery repository for Entity #141217.
 
 **About Us:**
 Hello, and welcome to one of the many recovery projects of the R.P.R.O.
-![about_us](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/RPRO-Project/RPRO_entity_141217/main/about_us.iuml)
+![about_us](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/RPRO-Project/RPRO_entity_141217/main/about_us.puml)
 We are an anonymous group of researchers, analysts, programmers, journalists, activists, and ethical hackers who are dedicated to the ideal that what we do on the internet shouldn't be deleted forever by big corporations at their discretion. It is our belief that everybody should have a second chance to see their history, and the chance to revisit things they may have created on the internet in the past. All information has value, and all information should be preserved.
 
 ### About this Entity #121417
