@@ -4,13 +4,13 @@ left to right direction
 'top to bottom direction
 
 rectangle GitHub
-rectangle Archive
+circle Archive
 rectangle "Newgrounds Archive"
 rectangle "SoundCloud Archive"
 
-GitHub --> Archive 
-Archive --> "Newgrounds Archive"
-Archive --> "Soundcloud Archive"
-"Newgrounds Archive" --> "SoundCloud Archive"
+GitHub --> Archive : Our Hosting Servers 
+Archive --> (Newgrounds Archive)
+Archive --> (SoundCloud Archive)
+(Newgrounds Archive) --> (SoundCloud Archive) : Link from Newgrounds
 
 @enduml
