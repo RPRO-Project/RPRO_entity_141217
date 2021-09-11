@@ -1,5 +1,16 @@
 @startuml
-A[GitHub] -- Our Hosting Servers --> B((Archive))
-B --> C[NewGrounds Archive]
-B --> D[SoundCloud Archive]
+
+left to right direction
+'top to bottom direction
+
+rectangle GitHub
+rectangle Archive
+rectangle "Newgrounds Archive"
+rectangle "SoundCloud Archive"
+
+GitHub --> Archive 
+Archive --> "Newgrounds Archive"
+Archive --> "Soundcloud Archive"
+"Newgrounds Archive" --> "SoundCloud Archive"
+
 @enduml
