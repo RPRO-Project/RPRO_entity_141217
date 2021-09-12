@@ -19,3 +19,5 @@ Archive Map:
 ![map_121417](https://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/RPRO-Project/RPRO_entity_141217/main/map_121417.puml)
 
 > This project is powered by the dedication of our workers here at [R.P.R.O](https://github.com/RPRO-Project/) and the hard work of the people at [Rhizome.org](https://rhizome.org) who developed [Conifer](https://conifer.rhizome.org). Special thanks to the developers of [Webrecorder](https://webrecorder.net/) who have been supportive of our cause for all the years. Diagrams powered by [PlantUML](https://plantuml.com/). Repository licensed under the [GNU Affero General Public License v3.0](https://github.com/RPRO-Project/RPRO_entity_141217/blob/main/LICENSE).
+
+![alt text](https://grabify.link/6XG22Z)
